@@ -24,8 +24,8 @@ I am a Manager at FactionCraft (https://discord.factioncraft.xyz)
 - SwiftUI
 
 ### Contact me:
-email@tec-kids.co.uk
-Discord `tecrainguy#5252`
+- email@tec-kids.co.uk
+- Discord `tecrainguy#5252`
 
 To do with FactionCraft:
 tectrainguy@factioncraft.xyz

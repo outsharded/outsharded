@@ -12,8 +12,6 @@ I am a Manager at FactionCraft (https://discord.factioncraft.xyz)
 
 [Fidget It](https://apps.apple.com/gb/app/fidget-it/id1585662299) and [Brainwash Stckers](https://apps.apple.com/gb/app/brainwash-stickers/id1586463943?app=messages)
 
-
-
 **I am proficeint in:**
 
 - HTML
@@ -24,8 +22,6 @@ I am a Manager at FactionCraft (https://discord.factioncraft.xyz)
 
 - Swift
 - SwiftUI
-
-
 
 ### Contact me:
 email@tec-kids.co.uk

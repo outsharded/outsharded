@@ -6,8 +6,6 @@
 - I own and make https://tec-kids.co.uk/. ✍🏼
 
 
-I am a Manager at FactionCraft (https://discord.factioncraft.xyz)
-
 ### I have two apps on the Apple App Store, which you can see below:
 
 [Fidget It](https://apps.apple.com/gb/app/fidget-it/id1585662299) and [Brainwash Stckers](https://apps.apple.com/gb/app/brainwash-stickers/id1586463943?app=messages)

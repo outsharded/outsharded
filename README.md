@@ -23,5 +23,5 @@
 
 ### Contact me:
 - email@tec-kids.co.uk
-- Discord `tecrainguy#5252`
+- Discord `tectrainguy#5252`
 

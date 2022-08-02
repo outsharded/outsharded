@@ -1,5 +1,7 @@
+<p align="center">
 # Hi! I'm tectrainguy, a young developer from London. :uk:
 ![tectrainguy](https://en.gravatar.com/userimage/177662690/cb927268156b060539df8dffa63b9212.jpg)
+</p>
 
 - I develop stuff.🛠️ 
 - I fix stuff. 🩹 

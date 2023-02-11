@@ -3,7 +3,7 @@
 
 - I develop stuff.🛠️ 
 - I fix stuff. 🩹 
-- I own and make https://tec-kids.co.uk/. ✍🏼
+- I own the Swift Den https://discord.gg/hzDzBcP2Xv ✍🏼
 
 
 ### I have two apps on the Apple App Store, which you can see below:

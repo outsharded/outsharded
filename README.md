@@ -6,15 +6,16 @@
 - I own the Swift Den https://discord.gg/hzDzBcP2Xv ✍🏼
 
 
-### I have two apps on the Apple App Store, which you can see below:
+### I am currently working on my discord bot (The Swift):
+[Please have a look!](https://discord.com/oauth2/authorize?client_id=1045760873316229193&permissions=269224960&scope=applications.commands%20bot)
 
-[Fidget It](https://apps.apple.com/gb/app/fidget-it/id1585662299) and [Brainwash Stckers](https://apps.apple.com/gb/app/brainwash-stickers/id1586463943?app=messages)
 
-**I am proficeint in:**
+**I know in:**
 
 - HTML
 - CSS
 - Python
+- Javascript
 
 **I am learning:**
 

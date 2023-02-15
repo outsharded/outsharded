@@ -10,7 +10,7 @@
 [Please have a look!](https://discord.com/oauth2/authorize?client_id=1045760873316229193&permissions=269224960&scope=applications.commands%20bot)
 
 
-**I know in:**
+**I know:**
 
 - HTML
 - CSS

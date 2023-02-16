@@ -26,4 +26,5 @@
 - email@tec-kids.co.uk
 - Discord `tectrainguy#5252`
 
-<figure><embed src="https://wakatime.com/share/@5795909f-5ad4-4b6e-b35e-c9cc1251286b/e5065bf9-faaf-42ea-ae24-23511395d531.svg"></embed></figure>
+.. image:: https://wakatime.com/share/@tectrainguy/62cf4ed1-88f4-4f39-ab63-212d0c8609ce.png
+    :target: https://wakatime.com/

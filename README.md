@@ -24,7 +24,7 @@
 
 ### Contact me:
 - email@tec-kids.co.uk
-- Discord `tectrainguy#5252`
+- Discord `tectrainguy#0001`
 
 ![Coding over last 7 days](https://wakatime.com/share/@tectrainguy/d2985922-3cd1-4af9-a28b-847e166e63e7.svg)
 

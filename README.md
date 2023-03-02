@@ -23,7 +23,7 @@
 - SwiftUI
 
 ### Contact me:
-- email@tec-kids.co.uk
+- [Email](hi@tectrainguy.xyz)
 - Discord `tectrainguy#0001`
 
 ![Coding over last 7 days](https://wakatime.com/share/@tectrainguy/d2985922-3cd1-4af9-a28b-847e166e63e7.svg)

@@ -6,9 +6,10 @@
 - I own the Swift Den https://discord.gg/hzDzBcP2Xv ✍🏼
 
 
-### I am currently working on my discord bot (The Swift):
-[Please have a look!](https://discord.com/oauth2/authorize?client_id=1045760873316229193&permissions=269224960&scope=applications.commands%20bot)
-
+### I am currently working on various Typescript/Javascript projects:
+[The Swift Discord Bot](https://discord.com/api/oauth2/authorize?client_id=1045760873316229193&permissions=269224960&scope=applications.commands%20bot)
+[Odin Discord Security Bot](https://discord.com/api/oauth2/authorize?client_id=1075486196957991072&permissions=1099511892992&scope=bot%20applications.commands)
+[My Next.js Website](https://tectrainguy.xyz)
 
 **I know:**
 

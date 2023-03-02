@@ -1,5 +1,5 @@
 # Hi! I'm tectrainguy, a young developer from London. :uk:
-![tectrainguy](https://en.gravatar.com/userimage/177662690/cb927268156b060539df8dffa63b9212.jpg)
+![tectrainguy](https://static.tectrainguy.xyz/in-mac.png)
 
 - I develop stuff.🛠️ 
 - I fix stuff. 🩹 
@@ -7,9 +7,10 @@
 
 
 ### I am currently working on various Typescript/Javascript projects:
-[The Swift Discord Bot](https://discord.com/api/oauth2/authorize?client_id=1045760873316229193&permissions=269224960&scope=applications.commands%20bot)
-[Odin Discord Security Bot](https://discord.com/api/oauth2/authorize?client_id=1075486196957991072&permissions=1099511892992&scope=bot%20applications.commands)
-[My Next.js Website](https://tectrainguy.xyz)
+
+- [The Swift Discord Bot](https://discord.com/api/oauth2/authorize?client_id=1045760873316229193&permissions=269224960&scope=applications.commands%20bot)
+- [Odin Discord Security Bot](https://discord.com/api/oauth2/authorize?client_id=1075486196957991072&permissions=1099511892992&scope=bot%20applications.commands)
+- [My Next.js Website](https://tectrainguy.xyz)
 
 **I know:**
 

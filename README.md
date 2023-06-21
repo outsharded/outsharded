@@ -26,7 +26,7 @@
 
 ### Contact me:
 - [Email](hi@tectrainguy.xyz)
-- Discord `ooutsharded`
+- Discord: `outsharded`
 
 ![Coding over last 7 days](https://wakatime.com/share/@tectrainguy/d2985922-3cd1-4af9-a28b-847e166e63e7.svg)
 

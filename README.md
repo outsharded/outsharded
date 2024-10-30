@@ -10,5 +10,6 @@
 
 ### Contact me:
 - Discord: `outsharded`
+- Robotics Email: [info@powercut-robotics.org](mailto:info@powercut-robotics.org)
 
 
